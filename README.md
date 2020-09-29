@@ -2,7 +2,7 @@
 
 ## Instructions:
 
-To install on your local machine
+To install on your local machines
 
 - git clone 'the url.git'
 - cd repo
